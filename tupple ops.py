@@ -1,0 +1,6 @@
+tup1=("q","w","e","r","t","y")
+tup2=(1,3,5,6,8,3)
+tup3=tup2.count(3)
+print(tup3)
+tup4=(tup2[2:5])
+print(tup4)
